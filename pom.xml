@@ -1,0 +1,31 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>com.jansegre</groupId>
+  <artifactId>servlet-archetype</artifactId>
+  <version>1.0-SNAPSHOT</version>
+
+  <name>Jan Segre's Servlet Archetype</name>
+  <url>http://jansegre.com/servlet-archetype</url>
+  <inceptionYear>2014</inceptionYear>
+
+  <licenses>
+    <license>
+      <name>Mozilla Public License Version 2.0</name>
+      <url>http://www.mozilla.org/MPL/2.0/</url>
+      <distribution>manual</distribution>
+    </license>
+  </licenses>
+
+  <developers>
+    <developer>
+      <id>jansegre</id>
+      <name>Jan Segre</name>
+      <roles>
+        <role>Developer</role>
+      </roles>
+      <timezone>-3</timezone>
+    </developer>
+  </developers>
+</project>
