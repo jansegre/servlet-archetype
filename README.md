@@ -1,5 +1,5 @@
-Jan Segre's Servlet Archetype
-=============================
+servlet-archetype
+=================
 
 This archetype will generate a stub project with a simple servlet that processes a form and renders a jsp.
 
